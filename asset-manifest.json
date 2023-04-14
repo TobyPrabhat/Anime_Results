@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9bcb677.css",
+    "main.js": "/static/js/main.44ab0573.js",
+    "static/media/Anime-mix.webp": "/static/media/Anime-mix.0e7666642d6c752e3eb6.webp",
+    "index.html": "/index.html",
+    "main.e9bcb677.css.map": "/static/css/main.e9bcb677.css.map",
+    "main.44ab0573.js.map": "/static/js/main.44ab0573.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9bcb677.css",
+    "static/js/main.44ab0573.js"
+  ]
+}
